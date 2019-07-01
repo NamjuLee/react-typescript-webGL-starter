@@ -17,7 +17,7 @@ class App extends Component {
   public render() {
     return (
       <div id ="main" style={this.divStyle}>
-
+          
       </div>
     );
   }
